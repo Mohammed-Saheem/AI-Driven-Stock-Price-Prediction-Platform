@@ -89,4 +89,4 @@ Check out the live demo: [MarketCode AI Demo](https://ornate-pixie-e585c5.netlif
 
 ---
 
-Made with ❤️ by Saheem Zahid Sanjay Surya Vinith
+Made by Saheem Zahid Sanjay Surya Vinith
